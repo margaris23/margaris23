@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikolaos Margaris
 - 👀 I’m interested in FrontEnd Technologies
-- 🌱 I’m currently expanding my knowledge on Clojure(Script)
+- 🌱 I’m currently expanding my knowledge with Games Programming
 - 💞️ I’m looking to collaborate on projects of animal-wellfare and environmental importance
 - 📫 How to reach me: reverence23@gmail.com
 
