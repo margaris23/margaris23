@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikolaos Margaris
 - 👀 I’m interested in FrontEnd Technologies
-- 🌱 I’m currently building Code Assistant: a set of Assistive Technology Tools
+- 🌱 I’m currently working with Frontend apps on Agentic AI and as a side project, I am building Code Assistant: a set of Assistive Technology Tools
 - 💞️ I’m looking to collaborate on projects of animal-wellfare and environmental importance
 - 📫 How to reach me: reverence23@gmail.com
 
