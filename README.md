@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects of animal-wellfare and environmental importance
 - 📫 How to reach me: reverence23@gmail.com
 
-I am urrently working on a PoC related to **Assistive Technology**!
+I am urrently working on a PoC related to **Assistive Technology** and creating games using C/C++ and LUA!
 
 <!---
 margaris23/margaris23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
